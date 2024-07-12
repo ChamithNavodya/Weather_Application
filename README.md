@@ -31,4 +31,6 @@ Follow these steps to set up and run the Weather App:
    ```bash
    git clone https://github.com/yourusername/weather-app.git
    cd weather-app
+   npm install
+   npm start
    ```
